@@ -1,0 +1,9 @@
+{
+  "name": "Serenade",
+  "description": "A simple, easy on the eyes discord theme. Based on the colorscheme Serenade~",
+  "version": "0.1.0",
+  "author": "\\xynstr#0300",
+  "license": "MIT",
+  "theme": "discord_serenade.css",
+  "consent": "false"
+}
