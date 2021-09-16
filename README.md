@@ -43,6 +43,8 @@ beautifuldiscord --css ./discord-serenade/discord_serenade.css
 The theme works very well with Stylus extension. It's a single big file and not refactored for the same reason.
 Copy the contents of [css][./discord_serenade.css] file and paste it in your newly created userstyle.
 
+[Install via UserStyles](https://userstyles.world/style/1109/discord-serenade)
+
 ## Customization
 
 You can use this theme as a base and customize values according to your usecase.
