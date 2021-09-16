@@ -41,6 +41,11 @@ Upstream: https://github.com/b4skyx/discord-serenade */
 
 /* Sqware server and avatar icons everywhere */
 
+[class^="lowerBadge-"] {
+  top: 0;
+  left: 0;
+}
+
 [class^="lowerBadge-"] > [class^="numberBadge"] {
     border-radius: var(--server-radius);
 }
