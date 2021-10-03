@@ -590,10 +590,6 @@ div[class*="contextMenu"] {
     background-color: var(--background-secondary);
 }
 
-div[class*="header"] {
-    background-color: var(--background-secondary)
-}
-
 div[class*="details"] {
     color: var(--text-normal);
 }
